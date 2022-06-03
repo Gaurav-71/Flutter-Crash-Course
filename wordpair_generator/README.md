@@ -2,6 +2,10 @@
 
 A Flutter project which genrates random word pairs and displays it in a listview.
 
+## Youtube Video Reference
+
+https://youtu.be/1gDhl4leEzA
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
