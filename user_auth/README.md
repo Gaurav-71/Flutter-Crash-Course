@@ -1,6 +1,26 @@
 # user_auth
 
-A new Flutter project.
+A new Flutter project with Firebase.
+
+## Fix Firebase install error
+
+Uncomment the below line and set version to 10.0 in PodFile file in iOS folder.
+
+`# platform :ios, '9.0'` > `platform :ios, '10.0'`
+
+Run the following command in terminal
+
+`sudo arch -x86_64 gem install ffi`
+
+Go to ios folder then run :-
+
+`arch -x86_64 pod install`
+
+Useful Links :-
+
+- https://stackoverflow.com/questions/59921997/could-not-build-the-application-for-the-simulator-error-launching-application-o
+
+- https://stackoverflow.com/questions/67443265/error-regarding-undefined-method-map-for-nilnilclass-for-flutter-app-cocoap
 
 ## Getting Started
 
