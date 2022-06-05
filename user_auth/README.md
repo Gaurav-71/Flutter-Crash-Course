@@ -22,6 +22,8 @@ Useful Links :-
 
 - https://stackoverflow.com/questions/67443265/error-regarding-undefined-method-map-for-nilnilclass-for-flutter-app-cocoap
 
+- https://velog.io/@killerj1/Flutter-CocoaPods-error
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
