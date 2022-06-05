@@ -1,6 +1,22 @@
-# user_auth
+# User Authentication
 
 A new Flutter project with Firebase.
+
+## Youtube Reference Link
+
+https://youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
+
+## Flutter package Source
+
+Website : https://pub.dev
+
+- `flutter pub add provider`
+
+- `flutter pub add firebase_core`
+
+- `flutter pub add firebase_auth`
+
+- Loading Animations : `flutter pub add flutter_spinkit`
 
 ## Fix Firebase install error
 
