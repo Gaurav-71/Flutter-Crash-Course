@@ -2,6 +2,10 @@
 
 A new Flutter project mimmicking Youtube UI.
 
+## Youtube Reference Link
+
+https://www.youtube.com/watch?v=umhl2hakkcY
+
 ## Dependencies
 
 - `dart pub add timeago`

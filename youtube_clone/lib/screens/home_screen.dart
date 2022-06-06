@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:youtube_clone/data.dart';
 import 'package:youtube_clone/widgets/custom_sliver_app_bar.dart';
-import 'package:youtube_clone/widgets/video_cart.dart';
+import 'package:youtube_clone/widgets/video_card.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
