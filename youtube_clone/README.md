@@ -1,6 +1,10 @@
-# youtube_clone
+# Youtube Clone
 
-A new Flutter project.
+A new Flutter project mimmicking Youtube UI.
+
+## Dependencies
+
+- `dart pub add timeago`
 
 ## Getting Started
 
