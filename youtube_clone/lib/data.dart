@@ -46,7 +46,7 @@ final List<Video> videos = [
   Video(
       id: 'x606y4QWrxo',
       author: currentUser,
-      title: 'Flutter Clubhouse Clone UI Tutorial | Apps From Scratch',
+      title: 'Flutter Clubhouse Clone UI Tutorial',
       thumbnailUrl: 'https://i.ytimg.com/vi/x606y4QWrxo/0.jpg',
       duration: '8:20',
       timestamp: DateTime(2021, 3, 20),

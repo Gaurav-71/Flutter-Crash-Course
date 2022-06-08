@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:youtube_clone/screens/nav_screen.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
