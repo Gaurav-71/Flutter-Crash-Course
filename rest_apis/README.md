@@ -1,6 +1,20 @@
 # rest_apis
 
-A new Flutter project.
+A new Flutter project using REST APIs.
+
+## Reference Links
+
+- Youtube Video : https://youtu.be/m7b7_Nq7XSs
+
+- Documentation Link : https://docs.flutter.dev/cookbook/networking/fetch-data
+
+## Packages Required
+
+`flutter pub add http`
+
+## Mock Data
+
+https://jsonplaceholder.typicode.com
 
 ## Getting Started
 
