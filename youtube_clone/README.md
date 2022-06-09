@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=umhl2hakkcY
 
 - `dart pub add timeago`
 
-- `flutter pub add video_player`
+- `flutter pub add youtube_player_flutter`
 
 ## Getting Started
 
